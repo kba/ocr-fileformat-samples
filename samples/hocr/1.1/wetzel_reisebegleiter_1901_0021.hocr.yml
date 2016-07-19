@@ -1,0 +1,8 @@
+engine: tesseract 3.03
+view-url: http://www.deutschestextarchiv.de/book/view/wetzel_reisebegleiter_1901?p=21
+same-as:
+  - samples/alto/2.0/wetzel_reisebegleiter_1901_0021.alto
+page-number: 21
+page-side: right
+
+
