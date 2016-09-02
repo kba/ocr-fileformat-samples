@@ -7,8 +7,8 @@ This repository contains sample files for common OCR file formats in a
 standardized directory layout to make it easier for tools to test.
 
 This is a sister project to
-[ocr-fileformat](/UB-Mannheim/ocr-fileformat) which contains code for
-format validation and inter-format transformation.
+[ocr-fileformat](https://github.com/UB-Mannheim/ocr-fileformat) which contains
+code for format validation and inter-format transformation.
 
 ## Code organization
 
