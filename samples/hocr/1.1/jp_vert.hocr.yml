@@ -1,0 +1,4 @@
+engine: Google Image Recognition
+view-url: https://github.com/tmbdev/hocr-tools/issues/54
+same-as:
+  - samples/image/jp_vert.jpg
