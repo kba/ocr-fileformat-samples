@@ -1,0 +1,4 @@
+engine: Google Cloud Image SDK
+view-url: https://github.com/UB-Mannheim/ocr-fileformat/issues/22#issuecomment-238014479
+same-as:
+  - samples/image/test_picture.jpg
