@@ -1,0 +1,488 @@
+{
+  "textAnnotations": [
+    {
+      "locale": "en",
+      "description": "This is a picture\nThis is a picture\nThis is a picture.\nThis is a picture.\nThis is a picture.\n",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 101,
+            "x": 78
+          },
+          {
+            "y": 101,
+            "x": 716
+          },
+          {
+            "y": 858,
+            "x": 716
+          },
+          {
+            "y": 858,
+            "x": 78
+          }
+        ]
+      }
+    },
+    {
+      "description": "This",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 101,
+            "x": 80
+          },
+          {
+            "y": 101,
+            "x": 251
+          },
+          {
+            "y": 194,
+            "x": 251
+          },
+          {
+            "y": 194,
+            "x": 80
+          }
+        ]
+      }
+    },
+    {
+      "description": "is",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 105,
+            "x": 278
+          },
+          {
+            "y": 105,
+            "x": 343
+          },
+          {
+            "y": 176,
+            "x": 343
+          },
+          {
+            "y": 176,
+            "x": 278
+          }
+        ]
+      }
+    },
+    {
+      "description": "a",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 101,
+            "x": 374
+          },
+          {
+            "y": 101,
+            "x": 406
+          },
+          {
+            "y": 194,
+            "x": 406
+          },
+          {
+            "y": 194,
+            "x": 374
+          }
+        ]
+      }
+    },
+    {
+      "description": "picture",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 101,
+            "x": 440
+          },
+          {
+            "y": 101,
+            "x": 716
+          },
+          {
+            "y": 194,
+            "x": 716
+          },
+          {
+            "y": 194,
+            "x": 440
+          }
+        ]
+      }
+    },
+    {
+      "description": "This",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 308,
+            "x": 79
+          },
+          {
+            "y": 308,
+            "x": 224
+          },
+          {
+            "y": 385,
+            "x": 224
+          },
+          {
+            "y": 385,
+            "x": 79
+          }
+        ]
+      }
+    },
+    {
+      "description": "is",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 308,
+            "x": 245
+          },
+          {
+            "y": 308,
+            "x": 302
+          },
+          {
+            "y": 370,
+            "x": 302
+          },
+          {
+            "y": 370,
+            "x": 245
+          }
+        ]
+      }
+    },
+    {
+      "description": "a",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 308,
+            "x": 323
+          },
+          {
+            "y": 308,
+            "x": 351
+          },
+          {
+            "y": 385,
+            "x": 351
+          },
+          {
+            "y": 385,
+            "x": 323
+          }
+        ]
+      }
+    },
+    {
+      "description": "picture",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 308,
+            "x": 381
+          },
+          {
+            "y": 308,
+            "x": 610
+          },
+          {
+            "y": 385,
+            "x": 610
+          },
+          {
+            "y": 385,
+            "x": 381
+          }
+        ]
+      }
+    },
+    {
+      "description": "This",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 496,
+            "x": 79
+          },
+          {
+            "y": 496,
+            "x": 193
+          },
+          {
+            "y": 559,
+            "x": 193
+          },
+          {
+            "y": 559,
+            "x": 79
+          }
+        ]
+      }
+    },
+    {
+      "description": "is",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 496,
+            "x": 213
+          },
+          {
+            "y": 496,
+            "x": 252
+          },
+          {
+            "y": 559,
+            "x": 252
+          },
+          {
+            "y": 559,
+            "x": 213
+          }
+        ]
+      }
+    },
+    {
+      "description": "a",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 496,
+            "x": 271
+          },
+          {
+            "y": 496,
+            "x": 295
+          },
+          {
+            "y": 546,
+            "x": 295
+          },
+          {
+            "y": 546,
+            "x": 271
+          }
+        ]
+      }
+    },
+    {
+      "description": "picture.",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 496,
+            "x": 320
+          },
+          {
+            "y": 496,
+            "x": 518
+          },
+          {
+            "y": 546,
+            "x": 518
+          },
+          {
+            "y": 546,
+            "x": 320
+          }
+        ]
+      }
+    },
+    {
+      "description": "This",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 668,
+            "x": 79
+          },
+          {
+            "y": 668,
+            "x": 175
+          },
+          {
+            "y": 716,
+            "x": 175
+          },
+          {
+            "y": 716,
+            "x": 79
+          }
+        ]
+      }
+    },
+    {
+      "description": "is",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 668,
+            "x": 190
+          },
+          {
+            "y": 668,
+            "x": 227
+          },
+          {
+            "y": 716,
+            "x": 227
+          },
+          {
+            "y": 716,
+            "x": 190
+          }
+        ]
+      }
+    },
+    {
+      "description": "a",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 668,
+            "x": 242
+          },
+          {
+            "y": 668,
+            "x": 260
+          },
+          {
+            "y": 716,
+            "x": 260
+          },
+          {
+            "y": 716,
+            "x": 242
+          }
+        ]
+      }
+    },
+    {
+      "description": "picture.",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 668,
+            "x": 281
+          },
+          {
+            "y": 668,
+            "x": 446
+          },
+          {
+            "y": 716,
+            "x": 446
+          },
+          {
+            "y": 716,
+            "x": 281
+          }
+        ]
+      }
+    },
+    {
+      "description": "This",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 823,
+            "x": 78
+          },
+          {
+            "y": 823,
+            "x": 152
+          },
+          {
+            "y": 858,
+            "x": 152
+          },
+          {
+            "y": 858,
+            "x": 78
+          }
+        ]
+      }
+    },
+    {
+      "description": "is",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 823,
+            "x": 167
+          },
+          {
+            "y": 823,
+            "x": 193
+          },
+          {
+            "y": 858,
+            "x": 193
+          },
+          {
+            "y": 858,
+            "x": 167
+          }
+        ]
+      }
+    },
+    {
+      "description": "a",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 823,
+            "x": 207
+          },
+          {
+            "y": 823,
+            "x": 223
+          },
+          {
+            "y": 858,
+            "x": 223
+          },
+          {
+            "y": 858,
+            "x": 207
+          }
+        ]
+      }
+    },
+    {
+      "description": "picture.",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 823,
+            "x": 239
+          },
+          {
+            "y": 823,
+            "x": 372
+          },
+          {
+            "y": 858,
+            "x": 372
+          },
+          {
+            "y": 858,
+            "x": 239
+          }
+        ]
+      }
+    }
+  ]
+}
