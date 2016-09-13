@@ -1,0 +1,8 @@
+engine: ocropy 1.0
+date: 2016-09-13
+engine-latest-commit: https://github.com/tmbdev/ocropy/tree/97ace5581b4c4deb95cfcd17b595b0ff1da36c25
+view-url: http://digi.bib.uni-mannheim.de/seitenansicht_suche/?id=18&tx_dlf%5Bid%5D=1448&tx_dlf%5Bpage%5D=17
+same-as:
+  - samples/image/433934212_0017.bin.png
+page-number: 17
+page-side: right
