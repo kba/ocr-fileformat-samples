@@ -1,0 +1,6 @@
+engine: ocropy 1.0 on commit 97ace55, run on 2016-09-13
+view-url: http://digi.bib.uni-mannheim.de/seitenansicht_suche/?id=18&tx_dlf%5Bid%5D=1448&tx_dlf%5Bpage%5D=17
+same-as:
+  - samples/image/433934212_0017.bin.png
+page-number: 17
+page-side: right
