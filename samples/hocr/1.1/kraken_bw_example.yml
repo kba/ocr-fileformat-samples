@@ -1,0 +1,4 @@
+engine: kraken 0.8.0
+view-url: https://github.com/mittagessen/kraken/blob/master/tests/resources/bw.png
+same-as:
+  - samples/image/kraken_bw_example.png
