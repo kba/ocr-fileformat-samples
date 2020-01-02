@@ -18,14 +18,14 @@
     <Page ID="page_1" PHYSICAL_IMG_NR="1" HEIGHT="1095" WIDTH="800">
       <PrintSpace HEIGHT="1095" WIDTH="800" VPOS="0" HPOS="0">
         <ComposedBlock ID="block_1_1" HEIGHT="22" WIDTH="127" VPOS="155" HPOS="314">
-          <TextBlock ID="par_1_1" HEIGHT="22" WIDTH="127" VPOS="155" HPOS="314" language="">
+          <TextBlock ID="par_1_1" HEIGHT="22" WIDTH="127" VPOS="155" HPOS="314">
             <TextLine ID="line_1_1" HEIGHT="22" WIDTH="127" VPOS="155" HPOS="314">
               <String ID="word_1_1" CONTENT="..-15-." HEIGHT="22" WIDTH="127" VPOS="155" HPOS="314"/>
             </TextLine>
           </TextBlock>
         </ComposedBlock>
         <ComposedBlock ID="block_1_2" HEIGHT="262" WIDTH="557" VPOS="179" HPOS="97">
-          <TextBlock ID="par_1_2" HEIGHT="128" WIDTH="556" VPOS="208" HPOS="98" language="">
+          <TextBlock ID="par_1_2" HEIGHT="128" WIDTH="556" VPOS="208" HPOS="98" language="de">
             <TextLine ID="line_1_2" HEIGHT="28" WIDTH="555" VPOS="208" HPOS="98">
               <String ID="word_1_2" CONTENT="Schachteln" HEIGHT="26" WIDTH="110" VPOS="210" HPOS="98"/>
               <String ID="word_1_3" CONTENT="und" HEIGHT="21" WIDTH="38" VPOS="210" HPOS="228"/>
@@ -72,7 +72,7 @@
               <String ID="word_1_36" CONTENT="«" HEIGHT="3" WIDTH="2" VPOS="316" HPOS="575"/>
             </TextLine>
           </TextBlock>
-          <TextBlock ID="par_1_3" HEIGHT="80" WIDTH="555" VPOS="340" HPOS="98" language="">
+          <TextBlock ID="par_1_3" HEIGHT="80" WIDTH="555" VPOS="340" HPOS="98" language="de">
             <TextLine ID="line_1_7" HEIGHT="28" WIDTH="503" VPOS="340" HPOS="150">
               <String ID="word_1_37" CONTENT="Aber" HEIGHT="21" WIDTH="51" VPOS="341" HPOS="150"/>
               <String ID="word_1_38" CONTENT="vier" HEIGHT="20" WIDTH="40" VPOS="342" HPOS="214"/>
@@ -100,14 +100,14 @@
           </TextBlock>
         </ComposedBlock>
         <ComposedBlock ID="block_1_3" HEIGHT="22" WIDTH="11" VPOS="436" HPOS="365">
-          <TextBlock ID="par_1_4" HEIGHT="22" WIDTH="11" VPOS="436" HPOS="365" language="">
+          <TextBlock ID="par_1_4" HEIGHT="22" WIDTH="11" VPOS="436" HPOS="365">
             <TextLine ID="line_1_10" HEIGHT="22" WIDTH="11" VPOS="436" HPOS="365">
               <String ID="word_1_55" CONTENT="l" HEIGHT="22" WIDTH="11" VPOS="436" HPOS="365"/>
             </TextLine>
           </TextBlock>
         </ComposedBlock>
         <ComposedBlock ID="block_1_4" HEIGHT="565" WIDTH="559" VPOS="453" HPOS="94">
-          <TextBlock ID="par_1_5" HEIGHT="524" WIDTH="556" VPOS="476" HPOS="97" language="">
+          <TextBlock ID="par_1_5" HEIGHT="524" WIDTH="556" VPOS="476" HPOS="97" language="de">
             <TextLine ID="line_1_11" HEIGHT="26" WIDTH="502" VPOS="476" HPOS="151">
               <String ID="word_1_56" CONTENT="Ehedem" HEIGHT="26" WIDTH="79" VPOS="476" HPOS="151"/>
               <String ID="word_1_57" CONTENT="ab" HEIGHT="21" WIDTH="23" VPOS="476" HPOS="257"/>
@@ -307,7 +307,7 @@
           </TextBlock>
         </ComposedBlock>
         <ComposedBlock ID="block_1_5" HEIGHT="1095" WIDTH="22" VPOS="0" HPOS="778">
-          <TextBlock ID="par_1_6" HEIGHT="1095" WIDTH="22" VPOS="0" HPOS="778" language="">
+          <TextBlock ID="par_1_6" HEIGHT="1095" WIDTH="22" VPOS="0" HPOS="778">
             <TextLine ID="line_1_31" HEIGHT="1095" WIDTH="22" VPOS="0" HPOS="778">
               <String ID="word_1_212" CONTENT="" HEIGHT="1095" WIDTH="22" VPOS="0" HPOS="778"/>
             </TextLine>
