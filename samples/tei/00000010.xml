@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2><teiHeader/><text><body>
+<p id="ID10_1">
+   <w function="1565,152,1647,196">Inh</w>
+   <w function="1651,163,1677,194">&amp;</w>
+   <w function="1677,150,1956,196">lteûberfiiobt</w> 
+</p>
+<p id="ID10_2">
+   <w function="3325,141,3431,205">XI</w> 
+</p>
+<p id="ID10_3">
+   <w function="1600,275,1714,320">Seite</w> 
+</p>
+<p id="ID10_4">
+   <w function="139,324,169,378">7</w>
+   <w function="174,324,223,378">. </w>
+   <w function="224,324,687,383">Betriebsillhaber</w> 
+   <w function="706,330,796,382">des</w> 
+   <w function="816,327,1144,383">Handwerks</w> 
+   <w function="1162,348,1252,387">am</w> 
+   <w function="1271,333,1339,387">30</w>
+   <w function="1342,377,1356,389">.</w>
+   <w function="1377,336,1409,388">9</w>
+   <w function="1414,375,1426,387">.</w>
+   <w function="1449,333,1581,387">1949</w> 
+   <w function="223,406,360,460">nach</w> 
+   <w function="393,407,545,463">Alter</w> 
+   <w function="576,409,688,462">und</w> 
+   <w function="724,407,1291,482">Handwerksgruppen</w>
+   <w function="1321,413,1616,469">  </w>
+   <w function="1617,410,1716,465">184</w> 
+</p>
+<p id="ID10_5">
+   <w function="139,491,173,544">8</w>
+   <w function="177,492,226,546">. </w>
+   <w function="227,492,448,549">Umsatz</w> 
+   <w function="473,496,566,550">des</w> 
+   <w function="591,495,917,548">Handwerks</w> 
+   <w function="942,512,1069,551">vom</w> 
+   <w function="1108,504,1135,554">1</w>
+   <w function="1143,502,1178,555">. </w>
+   <w function="1179,502,1415,557">Oktober</w> 
+   <w function="1452,502,1585,556">1948</w> 
+   <w function="225,574,309,627">bis</w> 
+   <w function="341,576,407,628">30</w>
+   <w function="411,575,448,629">. </w>
+   <w function="449,575,757,642">September</w> 
+   <w function="790,576,918,630">1949</w> 
+   <w function="950,578,1089,632">nach</w> 
+   <w function="1122,579,1585,654">Betriebsgrößen-</w> 
+   <w function="228,652,439,707">klasscn</w>
+   <w function="457,662,1622,717">. </w>
+   <w function="1623,658,1720,713">185</w> 
+</p>
+<p id="ID10_6">
+   <w function="112,758,155,818">C</w>
+   <w function="159,762,229,821">. </w>
+   <w function="230,760,1268,851">Industrieberichterstattung</w> 
+</p>
+<p id="ID10_7">
+   <w function="115,864,613,932">Vorbemerkungen</w>
+   <w function="614,877,1626,931"> . </w>
+   <w function="1627,873,1725,928">136</w> 
+</p>
+<p id="ID10_8">
+   <w function="150,958,177,1008">1</w>
+   <w function="183,952,233,1009">, </w>
+   <w function="234,952,645,1020">Beschäftigung</w> 
+   <w function="678,956,789,1009">und</w> 
+   <w function="821,958,1043,1017">Umsatz</w>
+   <w function="1049,965,1115,1027">, </w>
+   <w function="1116,965,1443,1020">Brennstoff-</w> 
+   <w function="1478,966,1592,1020">und</w> 
+   <w function="239,1030,708,1086">Stromverbrauch</w> 
+   <w function="744,1035,802,1091">in</w> 
+   <w function="840,1041,932,1097">der</w> 
+   <w function="968,1044,1236,1101">Industrie</w> 
+   <w function="1258,1047,1588,1101">1949—1951</w> 
+   <w function="1628,1043,1725,1097">187</w> 
+</p>
+<p id="ID10_9">
+   <w function="282,1135,315,1171">a</w>
+   <w function="317,1117,375,1186">) </w>
+   <w function="376,1117,623,1174">Gesamte</w> 
+   <w function="662,1121,926,1186">Industrie</w>
+   <w function="966,1135,1630,1189">. </w>
+   <w function="1631,1132,1728,1186">187</w> 
+</p>
+<p id="ID10_10">
+   <w function="278,1206,314,1257">b</w>
+   <w function="319,1206,371,1272">) </w>
+   <w function="372,1205,510,1259">nach</w> 
+   <w function="547,1207,1048,1292">Industriegruppen</w>
+   <w function="1068,1223,1630,1278">. </w>
+   <w function="1631,1219,1728,1275">188</w> 
+</p>
+<p id="ID10_11">
+   <w function="153,1297,186,1348">2</w>
+   <w function="190,1293,238,1347">. </w>
+   <w function="239,1292,600,1364">Beschäftigte</w> 
+   <w function="623,1300,681,1355">in</w> 
+   <w function="706,1306,797,1360">der</w> 
+   <w function="824,1310,1090,1365">Industrie</w> 
+   <w function="1115,1312,1266,1369">Ende</w> 
+   <w function="1290,1314,1440,1383">April</w> 
+   <w function="1465,1314,1592,1368">1951</w> 
+   <w function="239,1372,378,1425">nach</w> 
+   <w function="407,1373,499,1428">der</w> 
+   <w function="532,1378,771,1458">Stellung</w> 
+   <w function="799,1390,874,1444">im</w> 
+   <w function="906,1392,1121,1445">Betrieb</w> 
+   <w function="1151,1394,1264,1446">und</w> 
+   <w function="1292,1394,1431,1447">nach</w> 
+   <seq>
+      <w function="1461,1394,1576,1447">Lan</w> 
+      <w function="243,1452,371,1504">dern</w>
+   </seq>
+   <w function="372,1466,1632,1526"> . </w>
+   <w function="1633,1470,1733,1524">202</w> 
+</p>
+<p id="ID10_12">
+   <w function="126,1556,178,1615">D</w>
+   <w function="186,1556,244,1616">. </w>
+   <w function="245,1556,708,1635">Industrielle</w> 
+   <w function="761,1577,1193,1640">Produktion</w> 
+</p>
+<p id="ID10_13">
+   <w function="161,1665,188,1716">1</w>
+   <w function="196,1662,245,1715">. </w>
+   <w function="246,1662,573,1729">Produktion</w> 
+   <w function="608,1685,989,1751">ausgewählter</w> 
+   <w function="1025,1684,1370,1754">Erzeugnisse</w> 
+   <w function="250,1745,575,1814">1949—1951</w>
+   <w function="576,1762,1639,1819"> . </w>
+   <w function="1640,1764,1741,1819">204</w> 
+</p>
+<p id="ID10_14">
+   <w function="162,1834,195,1884">2</w>
+   <w function="197,1832,250,1885">. </w>
+   <w function="251,1832,418,1893">Index</w> 
+   <w function="453,1845,545,1899">der</w> 
+   <w function="581,1847,945,1905">industriellen</w> 
+   <w function="984,1852,1315,1907">Produktion</w> 
+</p>
+<p id="ID10_15">
+   <w function="251,1916,581,1982">1948—1952</w>
+   <w function="582,1930,1641,1989"> .  </w>
+   <w function="1642,1932,1743,1988">209</w> 
+</p>
+<p id="ID10_16">
+   <w function="165,2002,198,2054">3</w>
+   <w function="201,2004,251,2057">. </w>
+   <w function="252,2004,419,2065">Index</w> 
+   <w function="447,2015,537,2071">des</w> 
+   <w function="562,2017,1241,2089">Produktionsergebnisses</w> 
+   <w function="1266,2023,1317,2091">je</w> 
+   <seq>
+      <w function="1342,2022,1586,2076">Arbeiter</w> 
+      <w function="250,2090,442,2147">stunde</w>
+   </seq> 
+   <w function="478,2097,811,2153">1949—1951</w>
+   <w function="812,2103,1645,2154"> . </w>
+   <w function="1646,2102,1746,2153">213</w> 
+</p>
+<p id="ID10_17">
+   <w function="168,2174,200,2225">4</w>
+   <w function="204,2174,254,2226">. </w>
+   <w function="255,2174,422,2234">Index</w> 
+   <w function="450,2183,542,2239">des</w> 
+   <w function="572,2183,1250,2257">Produktionsergebnisses</w> 
+   <w function="1278,2188,1331,2257">je</w> 
+   <w function="1360,2188,1613,2244">Beschäf-</w> 
+   <w function="251,2257,618,2327">tigtenstunde</w> 
+   <w function="655,2267,984,2322">1949—1951</w>
+   <w function="985,2271,1648,2329"> .   </w>
+   <w function="1649,2270,1750,2323">213</w> 
+</p>
+<p id="ID10_18">
+   <w function="607,2420,700,2482">XI</w>
+   <w function="706,2422,752,2482">, </w>
+   <w function="753,2422,1250,2483">Bauwittsehaft</w>
+   <w function="1250,2465,1271,2498">,</w> 
+</p>
+<p id="ID10_19">
+   <w function="485,2517,780,2581">Gebäude</w> 
+   <w function="811,2520,943,2581">und</w> 
+   <w function="973,2519,1405,2601">Wohnungen</w> 
+</p>
+<p id="ID10_20">
+   <w function="139,2626,190,2688">A</w>
+   <w function="196,2631,261,2691">. </w>
+   <w function="262,2631,945,2719">Bauhauptgewerbe</w> 
+</p>
+<p id="ID10_21">
+   <w function="175,2737,203,2786">1</w>
+   <w function="209,2736,259,2789">. </w>
+   <w function="260,2736,784,2814">Bauhauptgewerbe</w> 
+   <w function="821,2749,1152,2804">1949—1951</w>
+   <w function="1153,2750,1654,2805"> . </w>
+   <w function="1655,2752,1756,2806">214</w> 
+</p>
+<p id="ID10_22">
+   <w function="176,2826,206,2879">2</w>
+   <w function="210,2826,260,2879">. </w>
+   <w function="261,2826,503,2888">Betriebe</w>
+   <w function="508,2836,559,2897">, </w>
+   <w function="560,2836,922,2906">Beschäftigte</w>
+   <w function="927,2839,977,2902">, </w>
+   <w function="978,2839,1159,2891">Löhne</w>
+   <w function="1165,2838,1220,2902">, </w>
+   <w function="1221,2838,1471,2892">Gehälter</w> 
+   <w function="1505,2840,1620,2892">und</w> 
+   <w function="263,2906,484,2968">Umsatz</w> 
+   <w function="522,2917,850,2972">1949—1951</w> 
+   <w function="886,2917,1025,2972">nach</w> 
+   <w function="1058,2918,1313,2973">Monaten</w>
+   <w function="1314,2921,1656,2973"> . </w>
+   <w function="1657,2921,1757,2974">214</w> 
+</p>
+<p id="ID10_23">
+   <w function="177,2994,209,3046">3</w>
+   <w function="213,2994,262,3047">. </w>
+   <w function="263,2994,611,3074">Bauleistung</w> 
+   <w function="646,3007,973,3060">1949—1951</w> 
+   <w function="1011,3007,1149,3062">nach</w> 
+   <w function="1182,3006,1439,3062">Monaten</w> 
+   <w function="1500,3047,1615,3061">....</w> 
+   <w function="1660,3010,1759,3064">215</w> 
+</p>
+<p id="ID10_24">
+   <w function="179,3085,213,3138">4</w>
+   <w function="213,3082,264,3138">. </w>
+   <w function="265,3082,507,3148">Betriebe</w> 
+   <w function="527,3095,640,3150">imd</w> 
+   <w function="661,3093,1023,3166">Beschäftigte</w> 
+   <w function="1046,3098,1178,3152">1950</w> 
+   <w function="1196,3097,1310,3153">und</w> 
+   <w function="1331,3099,1459,3153">1951</w> 
+   <w function="1486,3098,1625,3152">nach</w> 
+   <w function="268,3166,510,3227">Ländern</w> 
+   <w function="544,3177,656,3231">und</w> 
+   <w function="689,3177,827,3231">nach</w> 
+   <w function="866,3175,1287,3232">Größenklassen</w>
+   <w function="1332,3179,1659,3232">. </w>
+   <w function="1660,3178,1759,3232">216</w> 
+</p>
+<p id="ID10_25">
+   <w function="182,3254,214,3304">5</w>
+   <w function="218,3254,267,3307">. </w>
+   <w function="268,3254,615,3336">Bauleistung</w> 
+   <w function="639,3268,771,3320">1950</w> 
+   <w function="793,3266,904,3319">und</w> 
+   <w function="928,3268,1054,3321">1951</w> 
+   <w function="1081,3269,1218,3321">nach</w> 
+   <w function="1241,3268,1487,3323">Ländern</w> 
+   <w function="1511,3267,1625,3322">und</w> 
+   <w function="268,3340,405,3392">nach</w> 
+   <w function="444,3342,864,3401">Größenklassen</w>
+   <w function="898,3349,1662,3402">. </w>
+   <w function="1663,3349,1762,3402">217</w> 
+</p>
+<p id="ID10_26">
+   <w function="186,3422,218,3474">6</w>
+   <w function="222,3424,268,3478">. </w>
+   <w function="269,3424,592,3501">Verfügbare</w> 
+   <w function="634,3437,876,3507">wichtige</w> 
+   <w function="925,3436,1118,3491">Geräte</w> 
+   <w function="1164,3438,1296,3491">1950</w> 
+   <w function="1337,3436,1450,3492">und</w> 
+   <w function="1496,3437,1624,3491">1951</w> 
+   <w function="269,3508,408,3562">nach</w> 
+   <w function="441,3511,684,3572">Ländern</w> 
+   <w function="717,3519,829,3573">und</w> 
+   <w function="862,3518,1000,3573">nach</w> 
+   <w function="1039,3518,1464,3573">Größenklassen</w> 
+   <w function="1665,3518,1766,3572">218</w> 
+</p>
+<p id="ID10_27">
+   <w function="160,3605,210,3664">B</w>
+   <w function="214,3612,261,3673">. </w>
+   <w function="262,3612,965,3707">Wohnungszählung</w> 
+   <w function="1002,3627,1146,3689">1950</w> 
+</p>
+<p id="ID10_28">
+   <w function="194,3715,220,3766">1</w>
+   <w function="228,3716,276,3770">. </w>
+   <w function="277,3716,405,3776">Zahl</w>
+   <w function="409,3724,463,3788">, </w>
+   <w function="464,3724,636,3783">Größe</w>
+   <w function="641,3732,689,3793">, </w>
+   <w function="690,3732,1051,3803">Ausstattung</w> 
+   <w function="1085,3732,1200,3787">und</w> 
+   <w function="1235,3730,1502,3802">Belegung</w> 
+   <w function="1540,3732,1634,3787">der</w> 
+   <w function="277,3794,623,3877">Wohnungen</w>
+   <w function="666,3851,1622,3867">.</w>
+   <w function="1666,3812,1766,3866">220</w> 
+</p>
+<p id="ID10_29">
+   <w function="193,3880,225,3930">2</w>
+   <w function="229,3880,278,3934">. </w>
+   <w function="279,3880,624,3966">Wohnungen</w> 
+   <w function="665,3902,802,3955">nach</w> 
+   <w function="846,3902,966,3957">dem</w> 
+   <w function="1008,3901,1481,3958">Besitzverhältnis</w> 
+   <w function="1521,3901,1634,3954">und</w> 
+   <w function="276,3958,752,4035">Mietaufkommen</w> 
+   <w function="783,3982,841,4036">in</w> 
+   <w function="875,3984,977,4037">den</w> 
+   <w function="1010,3983,1473,4052">Mietwohnungen</w> 
+   <w function="1511,3983,1669,4035">.... </w>
+   <w function="1670,3983,1769,4035">222</w> 
+</p>
+<p id="ID10_30">
+   <w function="163,4062,207,4123">C</w>
+   <w function="210,4064,276,4125">. </w>
+   <w function="277,4064,764,4161">Bautätigkeit</w> 
+</p>
+<p id="ID10_31">
+   <w function="197,4174,225,4226">1</w>
+   <w function="232,4170,281,4225">. </w>
+   <w function="282,4170,851,4266">Baugenehmigungen</w> 
+   <w function="874,4197,963,4252">für</w> 
+   <w function="989,4198,1346,4254">Hochbauten</w> 
+   <w function="1369,4198,1445,4254">im</w> 
+   <w function="1475,4196,1638,4253">Jahre</w> 
+   <w function="288,4253,419,4308">1950</w> 
+   <w function="453,4263,565,4315">und</w> 
+   <w function="599,4271,726,4328">1951</w>
+   <w function="727,4278,1673,4334"> . </w>
+   <w function="1674,4278,1773,4333">223</w> 
+</p>
+<p id="ID10_32">
+   <w function="197,4348,231,4400">2</w>
+   <w function="233,4344,284,4400">. </w>
+   <w function="285,4342,625,4420">Reinzugang</w> 
+   <w function="647,4373,717,4412">an</w> 
+   <w function="741,4363,1089,4440">Wohnungen</w> 
+   <w function="1112,4369,1245,4425">1935</w> 
+   <w function="1265,4369,1350,4424">bis</w> 
+   <w function="1375,4370,1505,4424">1943</w> 
+   <w function="1527,4369,1639,4423">und</w> 
+   <w function="290,4424,421,4480">1950</w> 
+   <w function="454,4427,592,4479">nach</w> 
+   <w function="626,4433,872,4497">Ländern</w>
+   <w function="914,4449,1675,4505">. </w>
+   <w function="1676,4449,1777,4503">224</w> 
+</p>
+<p id="ID10_33">
+   <w function="199,4520,231,4572">3</w>
+   <w function="235,4516,283,4576">. </w>
+   <w function="284,4514,655,4584">Bautätigkeit</w> 
+   <w function="700,4524,758,4577">in</w> 
+   <w function="811,4529,976,4588">Groß-</w> 
+   <w function="1023,4541,1135,4596">und</w> 
+   <w function="1184,4540,1579,4596">Mittelstädten</w> 
+   <w function="293,4600,422,4660">1936</w>
+   <w function="428,4641,441,4663">,</w>
+   <w function="463,4599,592,4653">1949</w> 
+   <w function="626,4603,739,4655">und</w> 
+   <w function="774,4608,905,4664">1950</w>
+   <w function="916,4621,1677,4675">. </w>
+   <w function="1678,4621,1779,4675">224</w> 
+</p>
+<p id="ID10_34">
+   <w function="202,4696,235,4748">4</w>
+   <w function="238,4692,287,4748">. </w>
+   <w function="288,4687,658,4756">Bautätigkeit</w> 
+   <w function="692,4691,823,4744">1950</w>
+   <w function="824,4694,1679,4764"> . </w>
+   <w function="1680,4710,1780,4763">226</w> 
+</p>
+<p id="ID10_35">
+   <w function="206,4774,238,4829">5</w>
+   <w function="240,4772,291,4832">. </w>
+   <w function="292,4769,680,4838">Bauüberhang</w> 
+   <w function="714,4785,802,4825">am</w> 
+   <w function="838,4774,899,4830">31</w>
+   <w function="905,4779,940,4831">. </w>
+   <w function="941,4779,1233,4846">Dezember</w> 
+   <w function="1268,4792,1400,4848">1950</w>
+   <w function="1401,4792,1680,4846"> . </w>
+   <w function="1681,4790,1780,4845">228</w> 
+</p>
+<p id="ID10_36">
+   <w function="636,4917,762,4980">ХП</w>
+   <w function="765,4917,823,4979">, </w>
+   <w function="824,4917,1309,5000">Binnenbandel</w> 
+</p>
+<p id="ID10_37">
+   <w function="207,5048,234,5100">1</w>
+   <w function="240,5048,290,5104">. </w>
+   <w function="291,5048,674,5105">Umsatzwerte</w> 
+   <w function="700,5044,792,5099">des</w> 
+   <w function="815,5041,1219,5108">Einzelhandels</w> 
+   <w function="1247,5061,1576,5117">1949—1951</w>
+   <w function="1592,5062,1685,5114">., </w>
+   <w function="1686,5060,1785,5114">230</w> 
+</p>
+<p id="ID10_38">
+   <w function="205,5136,237,5188">2</w>
+   <w function="242,5138,292,5192">. </w>
+   <w function="293,5133,1030,5213">Konsumgenossenschaften</w> 
+   <w function="1067,5139,1401,5204">1949—1951</w>
+   <w function="1402,5151,1685,5204"> . </w>
+   <w function="1686,5150,1785,5204">232</w> 
+</p>
+<p id="ID10_39">
+   <w function="205,5226,237,5278">3</w>
+   <w function="240,5228,294,5282">. </w>
+   <w function="295,5228,894,5287">Großhandelsumsätze</w> 
+   <w function="914,5225,1006,5281">der</w> 
+   <w function="1026,5225,1651,5310">Wareneinkaufsgenoa-</w> 
+   <w function="293,5315,630,5371">senschaften</w> 
+   <w function="665,5315,795,5370">1949</w> 
+   <w function="829,5310,940,5367">und</w> 
+   <w function="977,5308,1108,5366">1950</w>
+   <w function="1109,5308,1686,5376"> . </w>
+   <w function="1687,5320,1785,5376">232</w> 
+</p>
+<p id="ID10_40">
+   <w function="3323,262,3438,305">Soito</w> 
+</p>
+<p id="ID10_41">
+   <w function="1860,334,1892,386">4</w>
+   <w function="1896,330,1945,383">. </w>
+   <w function="1946,330,2157,384">Handel</w> 
+   <w function="2173,327,2278,383">mit</w> 
+   <w function="2295,324,2648,382">West-Berlin</w> 
+   <w function="2664,324,2776,378">und</w> 
+   <w function="2797,318,3305,377">Interzonenhandel</w> 
+   <w function="1943,409,2048,465">mit</w> 
+   <w function="2087,411,2210,463">dem</w> 
+   <w function="2253,404,2727,475">Währungsgebiet</w> 
+   <w function="2766,404,2858,459">der</w> 
+   <w function="2898,400,3133,457">DM-Ost</w> 
+   <w function="3172,399,3305,456">1950</w> 
+   <w function="1946,490,2058,544">und</w> 
+   <w function="2094,490,2220,547">1951</w>
+   <w function="2221,479,3335,543"> ... </w>
+   <w function="3336,478,3436,532">233</w> 
+</p>
+<p id="ID10_42">
+   <w function="1993,597,2027,633">a</w>
+   <w function="2027,577,2080,649">) </w>
+   <w function="2081,577,2403,633">Monatliche</w> 
+   <w function="2437,573,2810,643">Entwicklung</w>
+   <w function="2846,609,3296,625">.</w>
+   <w function="3338,566,3438,624">233</w> 
+</p>
+<p id="ID10_43">
+   <w function="1990,669,2027,722">b</w>
+   <w function="2031,669,2082,739">) </w>
+   <w function="2083,667,2266,723">Anteil</w> 
+   <w function="2299,667,2393,721">der</w> 
+   <w function="2425,666,2635,720">Länder</w>
+   <w function="2636,682,3298,719"> .</w>
+   <w function="3342,657,3443,714">233</w> 
+</p>
+<p id="ID10_44">
+   <w function="1863,758,1897,812">5</w>
+   <w function="1900,758,1949,814">. </w>
+   <w function="1950,758,2131,814">Anteil</w> 
+   <w function="2153,759,2245,813">der</w> 
+   <w function="2270,757,2461,811">Waren</w> 
+   <w function="2486,771,2575,809">am</w> 
+   <w function="2599,752,2810,808">Handel</w> 
+   <w function="2831,751,2934,806">mit</w> 
+   <w function="2957,747,3312,806">West-Berlin</w> 
+</p>
+<p id="ID10_45">
+   <w function="1954,841,2086,896">1950</w> 
+   <w function="2119,839,2233,893">und</w> 
+   <w function="2268,840,2395,893">1951</w>
+   <w function="2396,830,3342,890"> . </w>
+   <w function="3343,827,3442,882">234</w> 
+</p>
+<p id="ID10_46">
+   <w function="1868,928,1900,980">6</w>
+   <w function="1902,928,1953,982">. </w>
+   <w function="1954,928,2134,984">Anteil</w> 
+   <w function="2172,928,2264,982">der</w> 
+   <w function="2304,926,2497,980">Waren</w> 
+   <w function="2534,940,2625,978">am</w> 
+   <w function="2667,921,3174,978">Interzonenhandel</w> 
+   <w function="3210,918,3318,973">mit</w> 
+   <w function="1955,1010,2075,1062">dem</w> 
+   <w function="2117,1005,2592,1076">Währungsgebiet</w> 
+   <w function="2632,1004,2723,1058">der</w> 
+   <w function="2761,1002,2993,1057">DM-Ost</w> 
+   <w function="3032,1000,3165,1057">1950</w> 
+   <w function="3203,999,3315,1053">und</w> 
+</p>
+<p id="ID10_47">
+   <w function="1957,1089,2085,1142">1951</w>
+   <w function="2086,1081,3347,1143"> . </w>
+   <w function="3348,1079,3451,1134">234</w> 
+</p>
+<p id="ID10_48">
+   <w function="2303,1215,2484,1278">XIIL</w> 
+   <w function="2525,1212,2986,1277">Außenhandel</w> 
+</p>
+<p id="ID10_49">
+   <w function="1874,1330,1899,1382">1</w>
+   <w function="1907,1324,1957,1380">. </w>
+   <w function="1958,1324,2084,1379">Ein-</w> 
+   <w function="2134,1329,2249,1383">und</w> 
+   <w function="2295,1327,2534,1382">Ausfuhr</w> 
+   <w function="2578,1325,2709,1382">1913</w>
+   <w function="2715,1326,2760,1389">, </w>
+   <w function="2761,1323,2894,1379">1925</w> 
+   <w function="2925,1322,3012,1376">bis</w> 
+   <w function="3045,1322,3178,1377">1939</w> 
+   <w function="3209,1321,3324,1376">und</w> 
+   <w function="1961,1406,2092,1460">1949</w> 
+   <w function="2125,1407,2210,1461">bis</w> 
+   <w function="2248,1409,2373,1460">1951</w>
+   <w function="2374,1401,3352,1460"> . </w>
+   <w function="3353,1397,3454,1454">235</w> 
+</p>
+<p id="ID10_50">
+   <w function="1877,1498,1908,1548">2</w>
+   <w function="1912,1494,1960,1548">. </w>
+   <w function="1961,1493,2088,1548">Ein-</w> 
+   <w function="2104,1496,2216,1548">und</w> 
+   <w function="2233,1495,2472,1550">Ausfuhr</w> 
+   <w function="2490,1495,2622,1551">1928</w> 
+   <w function="2637,1492,2722,1548">bis</w> 
+   <w function="2741,1493,2871,1548">1937</w>
+   <w function="2875,1533,2889,1556">,</w>
+   <w function="2909,1491,3041,1548">1950</w> 
+   <w function="3059,1490,3172,1546">und</w> 
+   <w function="3189,1489,3320,1547">1951</w> 
+   <w function="1963,1572,2100,1628">nach</w> 
+   <w function="2135,1573,2388,1645">Gruppen</w> 
+   <w function="2420,1577,2513,1632">der</w> 
+   <w function="2543,1571,3187,1643">Emähnmgswirtschaft</w> 
+   <w function="3215,1571,3329,1625">und</w> 
+   <w function="1965,1655,2057,1708">der</w> 
+   <w function="2097,1651,2488,1709">Gewerblichen</w> 
+   <w function="2524,1653,2841,1709">Wirtschaft</w>
+   <w function="2869,1653,3363,1706">. </w>
+   <w function="3364,1648,3463,1706">236</w> 
+</p>
+<p id="ID10_51">
+   <w function="1881,1746,1913,1799">3</w>
+   <w function="1917,1744,1964,1800">. </w>
+   <w function="1965,1742,2285,1799">Monatliche</w> 
+   <w function="2306,1743,2679,1812">Entwicklung</w> 
+   <w function="2701,1744,2792,1797">der</w> 
+   <w function="2812,1740,2938,1795">Ein-</w> 
+   <w function="2957,1742,3071,1796">und</w> 
+   <w function="3090,1740,3330,1795">Ausfuhr</w> 
+   <w function="1968,1821,2206,1877">Oktober</w> 
+   <w function="2221,1824,2351,1877">1949</w> 
+   <w function="2368,1823,2451,1876">bis</w> 
+   <w function="2466,1822,2756,1878">Dezember</w> 
+   <w function="2773,1822,2900,1876">1951</w> 
+   <w function="2920,1820,3058,1874">nach</w> 
+   <w function="3078,1819,3332,1891">Gruppen</w> 
+   <w function="1970,1905,2062,1958">der</w> 
+   <w function="2110,1900,2752,1972">Emährungswirtschaft</w> 
+   <w function="2793,1901,2906,1955">imd</w> 
+   <w function="2953,1900,3047,1955">der</w> 
+   <seq>
+      <w function="3089,1898,3308,1955">Gewerb</w> 
+      <w function="1970,1983,2142,2039">lichen</w>
+   </seq> 
+   <w function="2177,1981,2492,2036">Wirtschaft</w>
+   <w function="2529,2019,3324,2036">.</w>
+   <w function="3367,1981,3465,2035">237</w> 
+</p>
+<p id="ID10_52">
+   <w function="1888,2080,1920,2130">4</w>
+   <w function="1923,2074,1972,2130">. </w>
+   <w function="1973,2073,2098,2127">Ein-</w> 
+   <w function="2113,2070,2225,2124">und</w> 
+   <w function="2240,2069,2480,2123">Ausfuhr</w> 
+   <w function="2497,2071,2630,2125">1950</w> 
+   <w function="2644,2071,2755,2125">und</w> 
+   <w function="2774,2070,2901,2125">1951</w> 
+   <w function="2920,2069,3058,2122">nach</w> 
+   <w function="3081,2069,3334,2140">Gruppen</w> 
+   <w function="1973,2153,2086,2208">und</w> 
+   <w function="2122,2151,2530,2220">Untergruppen</w> 
+   <w function="2565,2150,2657,2204">der</w> 
+   <w function="2693,2147,3337,2219">Emährungswirtschaft</w> 
+   <w function="1976,2235,2087,2288">und</w> 
+   <w function="2121,2233,2213,2285">der</w> 
+   <w function="2253,2229,2642,2284">Gewerblichen</w> 
+   <w function="2677,2228,2995,2282">Wirtschaft</w>
+   <w function="2996,2234,3327,2283"> .</w>
+   <w function="3372,2228,3473,2284">238</w> 
+</p>
+<p id="ID10_53">
+   <w function="1891,2328,1923,2380">5</w>
+   <w function="1927,2328,1975,2382">. </w>
+   <w function="1976,2322,2156,2380">Anteil</w> 
+   <w function="2173,2322,2265,2374">der</w> 
+   <w function="2281,2319,2617,2389">wichtigsten</w> 
+   <w function="2637,2320,2828,2373">Waren</w> 
+   <w function="2846,2334,2935,2372">am</w> 
+   <w function="2952,2316,3339,2374">Außenhandel</w> 
+   <w function="1980,2404,2111,2460">1936</w>
+   <w function="2117,2404,2165,2465">, </w>
+   <w function="2166,2400,2301,2456">1950</w> 
+   <w function="2332,2401,2447,2453">und</w> 
+   <w function="2481,2400,2611,2454">1951</w>
+   <w function="2612,2401,3373,2452"> . </w>
+   <w function="3374,2400,3474,2453">242</w> 
+</p>
+<p id="ID10_54">
+   <w function="2119,2489,2346,2544">Einfuhr</w>
+   <w function="2379,2525,3334,2542">.</w>
+   <w function="3377,2490,3476,2542">242</w> 
+</p>
+<p id="ID10_55">
+   <w function="2113,2577,2352,2634">Ausfuhr</w>
+   <w function="2380,2614,3332,2631">.</w>
+   <w function="3375,2576,3476,2632">243</w> 
+</p>
+<p id="ID10_56">
+   <w function="1898,2674,1930,2728">6</w>
+   <w function="1934,2672,1983,2729">. </w>
+   <w function="1984,2671,2110,2727">Ein-</w> 
+   <w function="2160,2668,2272,2723">und</w> 
+   <w function="2322,2667,2562,2721">Ausfuhr</w> 
+   <w function="2616,2667,2746,2721">1950</w> 
+   <w function="2797,2666,2935,2719">nach</w> 
+   <w function="2987,2664,3180,2718">Waren</w> 
+   <w function="3229,2668,3344,2721">und</w> 
+   <w function="1983,2750,2228,2809">Ländern</w>
+   <w function="2229,2764,3335,2802"> .</w>
+   <w function="3377,2746,3477,2803">246</w> 
+</p>
+<p id="ID10_57">
+   <w function="1899,2846,1929,2897">7</w>
+   <w function="1934,2842,1981,2897">. </w>
+   <w function="1982,2840,2162,2895">Anteil</w> 
+   <w function="2180,2840,2271,2894">der</w> 
+   <w function="2286,2837,2622,2909">wichtigsten</w> 
+   <w function="2636,2836,2845,2892">Länder</w> 
+   <w function="2858,2850,2947,2890">am</w> 
+   <w function="2960,2832,3346,2892">Außenhandel</w> 
+   <w function="1989,2920,2121,2978">1936</w>
+   <w function="2128,2920,2176,2984">, </w>
+   <w function="2177,2918,2308,2974">1950</w> 
+   <w function="2343,2917,2456,2973">und</w> 
+   <w function="2491,2918,2619,2973">1951</w>
+   <w function="2620,2919,3381,2972"> . </w>
+   <w function="3382,2916,3483,2971">256</w> 
+</p>
+<p id="ID10_58">
+   <w function="2123,3007,2354,3062">Einfuhr</w>
+   <w function="2387,3041,3341,3061">.</w>
+   <w function="3384,3007,3485,3061">256</w> 
+</p>
+<p id="ID10_59">
+   <w function="2123,3097,2361,3152">Ausfuhr</w>
+   <w function="2389,3098,3385,3152">. </w>
+   <w function="3386,3098,3486,3150">257</w> 
+</p>
+<p id="ID10_60">
+   <w function="1903,3190,1937,3244">8</w>
+   <w function="1941,3188,1990,3246">. </w>
+   <w function="1991,3188,2117,3243">Ein-</w> 
+   <w function="2148,3187,2258,3241">und</w> 
+   <w function="2289,3187,2529,3243">Ausfuhr</w> 
+   <w function="2561,3187,2691,3242">1936</w>
+   <w function="2698,3189,2744,3250">, </w>
+   <w function="2745,3187,2876,3240">1950</w> 
+   <w function="2904,3184,3017,3238">und</w> 
+   <w function="3049,3183,3177,3236">1951</w> 
+   <w function="3210,3185,3351,3239">nach</w> 
+   <w function="1993,3267,2265,3323">Erdteilen</w> 
+   <w function="2299,3268,2411,3321">und</w> 
+   <w function="2446,3268,2693,3323">Ländern</w>
+   <w function="2727,3302,3346,3321">.</w>
+   <w function="3390,3266,3490,3320">258</w> 
+</p>
+<p id="ID10_61">
+   <w function="1906,3360,1938,3413">9</w>
+   <w function="1941,3358,1993,3414">. </w>
+   <w function="1994,3358,2454,3413">Handelsverkehr</w> 
+   <w function="2484,3357,2587,3413">mit</w> 
+   <w function="2618,3357,2721,3410">den</w> 
+   <w function="2750,3354,3086,3423">wichtigsten</w> 
+   <w function="3118,3353,3356,3410">Herstel-</w> 
+   <w function="1991,3439,2168,3509">lungs-</w> 
+   <w function="2190,3439,2302,3493">und</w> 
+   <w function="2325,3437,2876,3495">Verbrauchsländera</w> 
+   <w function="2909,3434,3020,3489">und</w> 
+   <w function="3046,3433,3228,3490">Anteil</w> 
+   <w function="3261,3436,3355,3492">der</w> 
+   <w function="1990,3518,2326,3587">wichtigsten</w> 
+   <w function="2363,3520,2554,3572">Waren</w> 
+   <w function="2586,3518,2662,3571">im</w> 
+   <w function="2702,3518,2863,3571">Jahre</w> 
+   <w function="2899,3516,3031,3570">1950</w>
+   <w function="3032,3516,3392,3570"> . </w>
+   <w function="3393,3516,3494,3571">260</w> 
+</p>
+<p id="ID10_62">
+   <w function="1877,3606,1941,3661">10</w>
+   <w function="1945,3607,1993,3662">. </w>
+   <w function="1994,3606,2120,3661">Ein-</w> 
+   <w function="2153,3607,2266,3662">luid</w> 
+   <w function="2300,3606,2539,3661">Ausfuhr</w> 
+   <w function="2571,3607,2648,3662">im</w> 
+   <w function="2687,3606,2849,3662">Jahre</w> 
+   <w function="2884,3604,3017,3660">1950</w>
+   <w function="3021,3620,3066,3674">, </w>
+   <w function="3067,3602,3357,3674">gegliedert</w> 
+   <w function="1994,3689,2132,3742">nach</w> 
+   <w function="2153,3687,2651,3743">Nichtteilnehmer-</w> 
+   <w function="2671,3689,2784,3742">und</w> 
+   <w function="2806,3685,3357,3742">Teilnehmerländern</w> 
+</p>
+<p id="ID10_63">
+   <w function="1997,3783,2067,3820">an</w> 
+   <w function="2103,3768,2195,3822">der</w> 
+   <w function="2230,3767,2413,3823">OEEC</w>
+   <w function="2414,3769,3391,3823"> . </w>
+   <w function="3392,3768,3495,3822">268</w> 
+</p>
+<p id="ID10_64">
+   <w function="1878,3860,1939,3911">11</w>
+   <w function="1947,3856,1997,3910">. </w>
+   <w function="1998,3856,2385,3925">Finanzierung</w> 
+   <w function="2419,3858,2513,3912">der</w> 
+   <w function="2546,3856,2777,3912">Einfuhr</w> 
+   <w function="2809,3854,2942,3911">1950</w> 
+   <w function="2974,3853,3089,3909">und</w> 
+   <w function="3124,3855,3252,3910">1951</w>
+   <w function="3253,3857,3395,3912"> .. </w>
+   <w function="3396,3858,3498,3912">270</w> 
+</p>
+<p id="ID10_65">
+   <w function="2438,3986,2587,4049">XIV</w>
+   <w function="2590,0,0,4048">. </w>
+   <w function="2649,3986,2935,4049">Verkelrf</w> 
+</p>
+<p id="ID10_66">
+   <w function="1880,4101,1931,4159">A</w>
+   <w function="1936,4101,2002,4161">. </w>
+   <w function="2003,4099,2413,4161">Meßziffern</w> 
+   <w function="2458,4101,2570,4160">des</w> 
+   <w function="2615,4101,2989,4161">Personen-</w> 
+   <w function="3029,4097,3172,4157">und</w> 
+   <w function="2007,4180,2558,4243">Güterverkehrs</w> 
+</p>
+<p id="ID10_67">
+   <w function="1918,4281,1944,4335">1</w>
+   <w function="1952,4276,1999,4332">. </w>
+   <w function="2000,4276,2306,4333">Meßziffem</w> 
+   <w function="2339,4278,2432,4335">des</w> 
+   <w function="2467,4275,2975,4334">Personenverkehrs</w> 
+   <w function="3022,4275,3355,4334">1948—1951</w> 
+   <w function="3395,4280,3496,4334">274</w> 
+</p>
+<p id="ID10_68">
+   <w function="1917,4372,1949,4423">2</w>
+   <w function="1951,4366,2000,4422">. </w>
+   <w function="2001,4366,2308,4423">Meßziffem</w> 
+   <w function="2341,4369,2434,4423">des</w> 
+   <w function="2473,4366,2887,4424">Güterverkehrs</w> 
+   <w function="2924,4365,3059,4421">1948</w>
+   <w function="3060,4365,3127,4420"> -</w>
+   <w function="3129,4368,3261,4423">1951</w>
+   <w function="3277,4370,3401,4422">.,. </w>
+   <w function="3402,4369,3503,4423">274</w> 
+</p>
+<p id="ID10_69">
+   <w function="1887,4477,1938,4537">B</w>
+   <w function="1944,4477,2009,4538">. </w>
+   <w function="2010,4477,2498,4539">Eisenbahnen</w> 
+</p>
+<p id="ID10_70">
+   <w function="1921,4578,1949,4631">1</w>
+   <w function="1956,4574,2005,4629">. </w>
+   <w function="2006,4574,2274,4630">Deutsche</w> 
+   <w function="2309,4575,2670,4630">Bundesbahn</w> 
+   <w function="2705,4574,3041,4630">1949—1950</w>
+   <w function="3042,4574,3403,4630"> . </w>
+   <w function="3404,4573,3505,4630">275</w> 
+</p>
+<p id="ID10_71">
+   <w function="1923,4668,1953,4719">2</w>
+   <w function="1958,4664,2006,4718">. </w>
+   <w function="2007,4664,2527,4732">Nichtbundeseigne</w> 
+   <w function="2551,4660,2921,4714">Eisenbahnen</w> 
+   <w function="2946,4664,3283,4719">1949—1950</w>
+   <w function="3284,4665,3404,4718"> .. </w>
+   <w function="3405,4664,3505,4719">276</w> 
+</p>
+<p id="ID10_72">
+   <w function="1923,4754,1955,4807">3</w>
+   <w function="1959,4751,2012,4808">. </w>
+   <w function="2013,4751,2533,4823">Güterbeförderung</w> 
+   <w function="2565,4750,2660,4805">auf</w> 
+   <w function="2694,4748,3067,4808">Eisenbahnen</w>
+   <w function="3068,4771,3364,4809"> .</w>
+   <w function="3408,4754,3507,4810">277</w> 
+</p>
+<p id="ID10_73">
+   <w function="2055,4862,2088,4896">a</w>
+   <w function="2088,4845,2145,4913">) </w>
+   <w function="2146,4844,2483,4899">1949—1950</w> 
+   <w function="2516,4840,2654,4896">nach</w> 
+   <w function="2693,4839,3157,4914">Gütergattungen</w> 
+   <w function="3411,4843,3510,4899">277</w> 
+</p>
+<p id="ID10_74">
+   <w function="2049,4932,2087,4986">b</w>
+   <w function="2091,4933,2146,5003">) </w>
+   <w function="2147,4932,2281,4989">1950</w> 
+   <w function="2313,4932,2451,4987">nach</w> 
+   <w function="2484,4929,2994,4988">Verkehrsbezirken</w>
+   <w function="2995,4949,3368,4990"> .</w>
+   <w function="3410,4935,3511,4991">279</w> 
+</p>
+<p id="ID10_75">
+   <w function="1895,5044,1937,5103">C</w>
+   <w function="1942,5044,2010,5103">. </w>
+   <w function="2011,5041,2662,5102">Binnenschiffahrt</w> 
+</p>
+<p id="ID10_76">
+   <w function="1929,5143,1956,5196">1</w>
+   <w function="1963,5138,2013,5196">, </w>
+   <w function="2014,5135,2634,5194">Binnenschiffsbestand</w> 
+   <w function="2666,5153,2757,5192">am</w> 
+   <w function="2793,5142,2820,5195">1</w>
+   <w function="2825,5138,2864,5194">. </w>
+   <w function="2865,5138,3072,5195">Januar</w> 
+   <w function="3106,5141,3235,5195">1951</w>
+   <w function="3236,5142,3411,5194"> ... </w>
+   <w function="3412,5139,3517,5194">280</w> 
+</p>
+<p id="ID10_77">
+   <w function="2059,5246,2093,5284">a</w>
+   <w function="2094,5229,2146,5299">) </w>
+   <w function="2147,5230,2286,5285">nach</w> 
+   <w function="2311,5226,2800,5299">Schiffsgattungen</w> 
+   <w function="2816,5230,2931,5286">und</w> 
+   <w function="2956,5229,3379,5285">Größenklassen</w> 
+   <w function="3414,5228,3515,5283">280</w> 
+</p>
+<p id="ID10_78">
+   <w function="2055,5318,2091,5372">b</w>
+   <w function="2094,5319,2148,5390">) </w>
+   <w function="2149,5318,2286,5375">nach</w> 
+   <w function="2321,5317,2700,5374">Heimatorten</w>
+   <w function="2701,5320,3413,5375"> . </w>
+   <w function="3414,5319,3511,5373">281</w> 
+</p>
+<p id="ID10_79">
+   <w function="3215,5460,3261,5502">II</w>
+   <w function="3267,5461,3291,5485">*</w> 
+</p>
+<pb/>
+<milestone n="10" type="page"/></body></text></TEI.2>
